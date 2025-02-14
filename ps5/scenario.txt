@@ -1,0 +1,55 @@
+pouzi skala
+juh
+zapad
+juh
+juh
+vychod
+pouzi skala
+sever
+vezmi mec
+vychod
+vychod
+sever
+preskumaj truhlica
+vezmi strieborny kluc
+vezmi lano
+juh
+vychod
+pouzi strieborny kluc
+juh
+vezmi elixir
+vychod
+juh
+pouzi mec
+juh
+vezmi tajomna krabicka
+sever
+sever
+vychod
+vezmi modry plamen
+sever
+pouzi elixir
+sever
+vezmi zlaty kluc
+vychod
+vychod
+vezmi kladivo
+zapad
+poloz tajomna truhlica
+pouzi kladivo
+vezmi naramok
+zapad
+zapad
+pouzi naramok
+sever
+pouzi lano
+poloz lano
+sever
+pouzi mec
+vychod
+vychod
+pouzi zlaty kluc
+sever
+pouzi modry plamen
+zapad
+vezmi princezna
